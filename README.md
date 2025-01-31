@@ -1,6 +1,6 @@
 # eduSync
 
-A class management system built using Next.js, Node.js, and PostgreSQL.
+eduSync is a class management system built using Next.js, Node.js, and PostgreSQL.
 
 ## Description
 
@@ -8,7 +8,7 @@ eduSync is a comprehensive class management system designed to streamline the pr
 
 ## Prerequisites
 
-The project has not been hosted yet so you might wanna have to clone the repositories and run them locally inorder to see the working
+The project has not been hosted yet so you might wanna have to clone the repositories and run them locally inorder to see the working.
 Before you begin, ensure you have met the following requirements:
 
 - Node.js installed on your machine

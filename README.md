@@ -23,13 +23,13 @@ Follow these steps to set up and run the project locally.
 #### Clone the frontend repository:
 
 ```bash
-git clone https://github.com/nikhilt77/eduSync-frontend.git
+git clone https://github.com/n1ved/edusync-frontend.git
 ```
 
 #### Clone the backend repository:
 
 ```bash
-git clone https://github.com/nikhilt77/eduSync-backend.git
+git clone https://github.com/nikhilt77/eduSync_Backend.git
 ```
 
 ## Setting up the Frontend
@@ -57,7 +57,7 @@ npm run dev
 Navigate to the backend directory:
 
 ```bash
-cd ../eduSync-backend
+cd ../eduSync_Backend
 ```
 
 Install the dependencies:
@@ -108,7 +108,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or feedback, please contact:
 
-**Nikhil T** - [GitHub Profile](https://github.com/nikhilt77)
+**Nikhil** - [GitHub Profile](https://github.com/nikhilt77)
+**Nived** - [GitHub Profile](https://github.com/n1ved)
 
 ## Screenshots
 

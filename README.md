@@ -114,4 +114,8 @@ For any questions or feedback, please contact:
 
 ## Screenshots
 
-Feel free to add the necessary images and refine any details as needed.
+![Screenshot Description](screenshots/image-name.png)
+![Screenshot Description](screenshots/image-name.png)
+![Screenshot Description](screenshots/image-name.png)
+![Screenshot Description](screenshots/image-name.png)
+

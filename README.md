@@ -114,8 +114,8 @@ For any questions or feedback, please contact:
 
 ## Screenshots
 
-![Screenshot Description](screenshots/image-name.png)
-![Screenshot Description](screenshots/image-name.png)
-![Screenshot Description](screenshots/image-name.png)
-![Screenshot Description](screenshots/image-name.png)
-
+![Screenshot Description](screenshots/eduSync7.jpeg)
+![Screenshot Description](screenshots/eduSync6.jpeg)
+![Screenshot Description](screenshots/eduSync5.jpeg)
+![Screenshot Description](screenshots/eduSync4.jpeg)
+![Screenshot Description](screenshots/eduSync3.jpeg)

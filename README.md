@@ -111,6 +111,8 @@ For any questions or feedback, please contact:
 
 **Nikhil** - [GitHub Profile](https://github.com/nikhilt77)
 **Nived** - [GitHub Profile](https://github.com/n1ved)
+**Rahull** - [GitHub Profile](https://github.com/rahul-ks04)
+**Karthik** - [GitHub Profile](https://github.com/Karthik9km)
 
 ## Screenshots
 
